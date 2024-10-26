@@ -57,13 +57,13 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
 
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/a2218372-be0a-4b52-a001-1daa42c36933">
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/a2218372-be0a-4b52-a001-1daa42c36933">
 
 
 ## Output:
 ### Name: GANESH D
 ### Register Number: 212223240035
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/6f39a1ef-52d6-499f-8f3e-7464765c7c42">
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/6f39a1ef-52d6-499f-8f3e-7464765c7c42">
 
 
 ## Result: 
